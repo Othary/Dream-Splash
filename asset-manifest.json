@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ArtPhoto/static/css/main.8920e199.css",
-    "main.js": "/ArtPhoto/static/js/main.bcfe7799.js",
+    "main.css": "/ArtPhoto/static/css/main.9168d30d.css",
+    "main.js": "/ArtPhoto/static/js/main.9fd85867.js",
     "static/media/Slide6.jpg": "/ArtPhoto/static/media/Slide6.a9d29638f21b70682edb.jpg",
     "static/media/Slide2.jpg": "/ArtPhoto/static/media/Slide2.0e7a433c34ce4cc855b4.jpg",
     "static/media/Slide7.jpg": "/ArtPhoto/static/media/Slide7.9d9ff88d203ab716526a.jpg",
@@ -16,11 +16,11 @@
     "static/media/ArrowRightWhiteCustom.png": "/ArtPhoto/static/media/ArrowRightWhiteCustom.9067e5c8d72974dcdd24.png",
     "static/media/DreamSplash7.png": "/ArtPhoto/static/media/DreamSplash7.e2e04dc0bee181543265.png",
     "index.html": "/ArtPhoto/index.html",
-    "main.8920e199.css.map": "/ArtPhoto/static/css/main.8920e199.css.map",
-    "main.bcfe7799.js.map": "/ArtPhoto/static/js/main.bcfe7799.js.map"
+    "main.9168d30d.css.map": "/ArtPhoto/static/css/main.9168d30d.css.map",
+    "main.9fd85867.js.map": "/ArtPhoto/static/js/main.9fd85867.js.map"
   },
   "entrypoints": [
-    "static/css/main.8920e199.css",
-    "static/js/main.bcfe7799.js"
+    "static/css/main.9168d30d.css",
+    "static/js/main.9fd85867.js"
   ]
 }
