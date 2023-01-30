@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ArtPhoto/static/css/main.af4f511a.css",
-    "main.js": "/ArtPhoto/static/js/main.b681829e.js",
+    "main.js": "/ArtPhoto/static/js/main.dd5674a5.js",
     "static/media/Slide6.jpg": "/ArtPhoto/static/media/Slide6.a9d29638f21b70682edb.jpg",
     "static/media/Slide2.jpg": "/ArtPhoto/static/media/Slide2.0e7a433c34ce4cc855b4.jpg",
     "static/media/Slide7.jpg": "/ArtPhoto/static/media/Slide7.9d9ff88d203ab716526a.jpg",
@@ -11,26 +11,16 @@
     "static/media/Slide1.jpg": "/ArtPhoto/static/media/Slide1.9f0540b354ed906c1ce7.jpg",
     "static/media/Slide5.jpg": "/ArtPhoto/static/media/Slide5.ba5817374c7763f3e0ec.jpg",
     "static/media/Slide3.jpg": "/ArtPhoto/static/media/Slide3.c6a73183d5099b1e9584.jpg",
-    "static/media/mSlide6.jpg": "/ArtPhoto/static/media/mSlide6.3d20006744fc00ed10b4.jpg",
     "static/media/Slide9.jpg": "/ArtPhoto/static/media/Slide9.72bcd3229a787b766279.jpg",
-    "static/media/mSlide1.jpg": "/ArtPhoto/static/media/mSlide1.06d07b9fdc154149d290.jpg",
-    "static/media/mSlide4.jpg": "/ArtPhoto/static/media/mSlide4.385cd373d89abb2f6e97.jpg",
-    "static/media/mSlide7.jpg": "/ArtPhoto/static/media/mSlide7.67a486d1ddbcf4ed7950.jpg",
-    "static/media/mSlide5.jpg": "/ArtPhoto/static/media/mSlide5.53e06c326081f54b7435.jpg",
-    "static/media/mSlide8.jpg": "/ArtPhoto/static/media/mSlide8.104d525fc0c8f84309f2.jpg",
-    "static/media/mSlide10.jpg": "/ArtPhoto/static/media/mSlide10.b6aa68d03ee96d3342f3.jpg",
-    "static/media/mSlide3.jpg": "/ArtPhoto/static/media/mSlide3.1582076c0bb33495b6c2.jpg",
-    "static/media/mSlide2.jpg": "/ArtPhoto/static/media/mSlide2.b8c36d80e52ac85f0bb1.jpg",
-    "static/media/mSlide9.jpg": "/ArtPhoto/static/media/mSlide9.78385ab5b19de4a76a38.jpg",
     "static/media/ArrowLeftWhiteCustom.png": "/ArtPhoto/static/media/ArrowLeftWhiteCustom.0383c9afa58b66fbe302.png",
     "static/media/ArrowRightWhiteCustom.png": "/ArtPhoto/static/media/ArrowRightWhiteCustom.9067e5c8d72974dcdd24.png",
     "static/media/DreamSplash7.png": "/ArtPhoto/static/media/DreamSplash7.e2e04dc0bee181543265.png",
     "index.html": "/ArtPhoto/index.html",
     "main.af4f511a.css.map": "/ArtPhoto/static/css/main.af4f511a.css.map",
-    "main.b681829e.js.map": "/ArtPhoto/static/js/main.b681829e.js.map"
+    "main.dd5674a5.js.map": "/ArtPhoto/static/js/main.dd5674a5.js.map"
   },
   "entrypoints": [
     "static/css/main.af4f511a.css",
-    "static/js/main.b681829e.js"
+    "static/js/main.dd5674a5.js"
   ]
 }
